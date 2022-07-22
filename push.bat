@@ -4,3 +4,4 @@ java Z:\CodeField\Java\StarTools\target\classes\com\starlee\readWebPage\ReadWeb.
 git add .
 git commit -m '%time0%'
 git push
+pause

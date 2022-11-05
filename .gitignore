@@ -1,2 +1,3 @@
-ReadWeb*
+ReadWeb.*
+.gitignore
 push.sh
